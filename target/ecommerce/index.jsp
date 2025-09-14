@@ -1,0 +1,1 @@
+<html><head><title>Shop</title><link rel='stylesheet' href='css/style.css' /></head><body><div class='container'><h1>My Shop</h1><a href='products'>Products</a> | <a href='cart'>Cart</a> | <a href='user/login'>Login</a> | <a href='admin/dashboard'>Admin</a></div></body></html>

@@ -1,0 +1,1 @@
+<html><head><title>Login</title></head><body><div class='container'><h2>Login</h2><form action='login' method='post'>Email:<br/><input name='email'/><br/>Password:<br/><input type='password' name='password'/><br/><button type='submit'>Login</button></form></div></body></html>

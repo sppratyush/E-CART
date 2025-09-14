@@ -1,0 +1,1 @@
+<html><head><title>Checkout</title></head><body><div class='container'><h2>Checkout</h2><form method='post' action='checkout'><button type='submit'>Pay (Mock)</button></form></div></body></html>

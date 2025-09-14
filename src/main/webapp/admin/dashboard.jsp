@@ -1,0 +1,1 @@
+<html><head><title>Admin</title></head><body><div class='container'><h1>Admin Dashboard</h1><p>Placeholder</p></div></body></html>
